@@ -1,0 +1,59 @@
+State,District,City,Area/Locality,Pincode,Negative Flag,Reason
+Maharashtra,Mumbai,Mumbai,Colaba,400001,No,
+Maharashtra,Mumbai,Mumbai,Fort,400002,No,
+Maharashtra,Mumbai,Mumbai,Kala Ghoda,400004,No,
+Maharashtra,Mumbai,Mumbai,Marine Drive,400020,No,
+Maharashtra,Mumbai,Mumbai,Bandra,400050,No,
+Maharashtra,Pune,Pune,Camp,411001,No,
+Maharashtra,Pune,Pune,Shivaji Nagar,411005,No,
+Maharashtra,Pune,Pune,Dhanori,411015,Yes,Remote Rural Area
+Maharashtra,Nagpur,Nagpur,Sadar Bazaar,440001,No,
+Maharashtra,Nagpur,Nagpur,Itwari,440002,No,
+Maharashtra,Nagpur,Nagpur,Narkhed,440026,Yes,Hilly Terrain
+Gujarat,Ahmedabad,Ahmedabad,Paldi,380001,No,
+Gujarat,Ahmedabad,Ahmedabad,Ellis Bridge,380006,No,
+Gujarat,Ahmedabad,Ahmedabad,Ramdev Nagar,380015,Yes,Semi-Urban
+Gujarat,Surat,Surat,Umarwada,395002,No,
+Gujarat,Surat,Surat,Adajan,395009,No,
+Gujarat,Vadodara,Vadodara,Raopura,390001,No,
+Gujarat,Vadodara,Vadodara,Samadhiyala,390015,Yes,Low Population Density
+Delhi,Central,New Delhi,Kasturba Nagar,110001,No,
+Delhi,Central,New Delhi,Chandni Chowk,110006,No,
+Delhi,North,Delhi,Malka Ganj,110007,No,
+Delhi,East,Delhi,Laxmi Nagar,110092,No,
+Delhi,South,Delhi,Hauz Khas,110016,Yes,Unauthorized Area
+Delhi,West,Delhi,Tilak Nagar,110018,No,
+Bangalore,Bangalore Urban,Bangalore,Indiranagar,560038,No,
+Bangalore,Bangalore Urban,Bangalore,Koramangala,560034,No,
+Bangalore,Bangalore Urban,Bangalore,Whitefield,560066,No,
+Bangalore,Bangalore Urban,Bangalore,Anekal,560067,Yes,Industrial Area
+Bangalore,Bangalore Rural,Bangalore,Kolar,563101,Yes,Rural Remote Area
+Tamil Nadu,Chennai,Chennai,Mylapore,600004,No,
+Tamil Nadu,Chennai,Chennai,Nungambakkam,600034,No,
+Tamil Nadu,Chennai,Chennai,Velachery,600042,No,
+Tamil Nadu,Coimbatore,Coimbatore,Gandhipuram,641012,No,
+Tamil Nadu,Coimbatore,Coimbatore,Sulur,641402,Yes,Low Banking Penetration
+Tamil Nadu,Salem,Salem,Ayyavalli,636004,Yes,Remote Rural Area
+Kolkata,South 24 Parganas,Kolkata,Park Circus,700017,No,
+Kolkata,South 24 Parganas,Kolkata,Alipore,700027,No,
+Kolkata,North 24 Parganas,Kolkata,Barrackpore,700108,Yes,High Default Rate
+Kolkata,North 24 Parganas,Kolkata,Khardah,700107,Yes,Disputed Land Issue
+Hyderabad,Telangana,Hyderabad,Hitech City,500081,No,
+Hyderabad,Telangana,Hyderabad,Banjara Hills,500034,No,
+Hyderabad,Telangana,Hyderabad,Kukatpally,500085,No,
+Hyderabad,Telangana,Hyderabad,Tandur,509412,Yes,Rural Remote Area
+Jaipur,Jaipur,Jaipur,C-Scheme,302001,No,
+Jaipur,Jaipur,Jaipur,Malviya Nagar,302017,No,
+Jaipur,Jaipur,Jaipur,Ramsar,303907,Yes,Desert Area
+Lucknow,Lucknow,Lucknow,Hazratgunj,226001,No,
+Lucknow,Lucknow,Lucknow,Alambagh,226005,No,
+Lucknow,Lucknow,Lucknow,Mohanlalganj,226102,Yes,Low Economic Development
+Chandigarh,Chandigarh,Chandigarh,Sector 17,160017,No,
+Chandigarh,Chandigarh,Chandigarh,Sector 35,160035,No,
+Chandigarh,Chandigarh,Chandigarh,Manimajra,160101,Yes,Border Area
+Pune,Pune,Pune,Camp,411001,No,
+Pune,Pune,Pune,Kondhwa,411048,No,
+Pune,Pune,Pune,Khed,412803,Yes,Tribal Area
+Ahmedabad,Ahmedabad,Ahmedabad,Navrangpura,380009,No,
+Ahmedabad,Ahmedabad,Ahmedabad,Vastrapur,380015,No,
+Ahmedabad,Ahmedabad,Ahmedabad,Desai Ganj,380001,Yes,Informal Settlement
